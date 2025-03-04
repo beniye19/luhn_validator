@@ -71,15 +71,3 @@ This project is licensed under the **MIT License**.
 
 Made with ❤️ by Benson.
 ```
-
----
-
-### Next Steps 🔥
-1. Copy this text.
-2. Save it as **README.md**.
-3. Commit and push:
-```bash
-git add README.md
-git commit -m "Added README"
-git push origin main
-```
